@@ -1,1 +1,1 @@
-hogehogehugahuga
+![ほげ](./hoge.png)
